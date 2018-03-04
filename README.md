@@ -12,3 +12,4 @@ def getHTMLText(url):
 if _name_ =="_main_";
     url = "http://www.baidu.com"
     print(getHTMLText(url))
+suibianx写下的内容，你不知道多少人比你更自律。
